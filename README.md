@@ -52,7 +52,7 @@ Para solucionar o desafio foi feita uma simulacao AMOSTRAL de todas as etapas e 
 
 #### Respostas:
 
-Link para Dashboard: https://drive.google.com/drive/folders/1-4P8fXCJKpWNUivQXdLZJIVJM1Ac5JBB?usp=sharing
+Link para Dashboard e Script SQL: https://drive.google.com/drive/folders/1-4P8fXCJKpWNUivQXdLZJIVJM1Ac5JBB?usp=sharing
 
 1. Qual a escola com a maior média de notas?
 
